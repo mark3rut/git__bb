@@ -1,0 +1,68 @@
+@import "vars";
+@import "fonts";
+@import "reset";
+@import "libs";
+@import "global";
+
+.aa {
+  width: 1500px;
+  margin: 0 auto;
+  background-color: aquamarine;
+  border-radius: 22px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.aaa {
+  width: 1000px;
+  color: #000;
+  text-align: center;
+  margin: 40px auto;
+  padding: 40px 30px;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.8px;
+  font-weight: 700;
+}
+.fi {
+  width: 800px;
+  height: 170px;
+  background-color: #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  &__img1 {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.dl {
+  width: 400px;
+  margin-bottom: 20px;
+  dd {
+    margin-bottom: 8px;
+  }
+}
+.dt {
+  font-weight: 700;
+}
+.pp {
+  width: 900px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  line-height: 24px;
+}
+.qq {
+  margin-bottom: 20px;
+}
+.sss{
+  color: #fff;
+}
+
+@import "media";

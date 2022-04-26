@@ -1,0 +1,122 @@
+$bg: #f8fafb;
+$accent: #58cd37;
+$accent-a: #29B7F1;
+$text: #555444;
+$text-a: #2F2F2F;
+$text-b: #7AC751;
+$text-c: #cccccc;
+$text-g: #657575;
+
+
+
+
+%popp-300 {
+  font-family: "Poppins-Light", sans-serif;
+  font-weight: 300;
+}
+%popp-400 {
+  font-family: "Poppins-Regular", sans-serif;
+  font-weight: 400;
+}
+%popp-500 {
+  font-family: "Poppins-Medium", sans-serif;
+  font-weight: 500;
+}
+%popp-700 {
+  font-family: "Poppins-Bold", sans-serif;
+  font-weight: 700;
+}
+%popp-800 {
+  font-family: "Poppins-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+%rubi-300 {
+  font-family: "Rubik-Light", sans-serif;
+  font-weight: 300;
+}
+%rubi-400 {
+  font-family: "Rubik-Regular", sans-serif;
+  font-weight: 400;
+}
+%rubi-500 {
+  font-family: "Rubik-Medium", sans-serif;
+  font-weight: 500;
+}
+%rubi-600 {
+  font-family: "Rubik-SemiBold", sans-serif;
+  font-weight: 600;
+}
+%rubi-700 {
+  font-family: "Rubik-Bold", sans-serif;
+  font-weight: 700;
+}
+%rubi-800 {
+  font-family: "Rubik-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+%dsans-400 {
+  font-family: "DMSans-Regular", sans-serif;
+  font-weight: 400;
+}
+%dsans-500 {
+  font-family: "DMSans-Medium", sans-serif;
+  font-weight: 500;
+}
+%dsans-700 {
+  font-family: "DMSans-Bold", sans-serif;
+  font-weight: 700;
+}
+%muli-200 {
+  font-family: "Mulish-ExtraLight", sans-serif;
+  font-weight: 200;
+}
+%muli-300 {
+  font-family: "Mulish-Light", sans-serif;
+  font-weight: 300;
+}
+%muli-400 {
+  font-family: "Mulish-Regular", sans-serif;
+  font-weight: 400;
+}
+%muli-500 {
+  font-family: "Mulish-Medium", sans-serif;
+  font-weight: 500;
+}
+%muli-700 {
+  font-family: "Mulish-Bold", sans-serif;
+  font-weight: 700;
+}
+%muli-800 {
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+%muli-900 {
+  font-family: "Mulish-Black", sans-serif;
+  font-weight: 900;
+}
+%voll-400 {
+  font-family: "Vollkorn-Regular", sans-serif;
+  font-weight: 400;
+}
+%voll-500 {
+  font-family: "Vollkorn-Medium", sans-serif;
+  font-weight: 500;
+}
+%voll-700 {
+  font-family: "Vollkorn-Bold", sans-serif;
+  font-weight: 700;
+}
+%voll-800 {
+  font-family: "Vollkorn-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+
+
+
+
+@function max($numbers...) {
+  @return m#{a}x(#{$numbers});
+}
+@function min($numbers...) {
+  @return m#{i}n(#{$numbers});
+}

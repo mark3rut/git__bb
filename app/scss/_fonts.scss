@@ -1,0 +1,200 @@
+@font-face {
+    font-family: "Rubik-Light";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Rubik-Light"),
+    url("../fonts/Rubik-Light.woff2") format("woff2"),
+    url("../fonts/Rubik-Light.woff") format("woff");
+}
+@font-face {
+    font-family: "Rubik-Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Rubik-Regular"),
+    url("../fonts/Rubik-Regular.woff2") format("woff2"),
+    url("../fonts/Rubik-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Rubik-Medium";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Rubik-Medium"),
+    url("../fonts/Rubik-Medium.woff2") format("woff2"),
+    url("../fonts/Rubik-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "Rubik-SemiBold";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Rubik-SemiBold"),
+    url("../fonts/Rubik-SemiBold.woff2") format("woff2"),
+    url("../fonts/Rubik-SemiBold.woff") format("woff");
+}
+@font-face {
+    font-family: "Rubik-Bold";
+    font-weight: 700;
+    font-style: bold;
+    src: local("Rubik-Bold"),
+    url("../fonts/Rubik-Bold.woff2") format("woff2"),
+    url("../fonts/Rubik-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Rubik-ExtraBold";
+    font-weight: 800;
+    font-style: bold;
+    src: local("Rubik-ExtraBold"),
+    url("../fonts/Rubik-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Rubik-ExtraBold.woff") format("woff");
+}
+@font-face {
+    font-family: "DMSans-Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("DMSans-Regular"),
+    url("../fonts/DMSans-Regular.woff2") format("woff2"),
+    url("../fonts/DMSans-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "DMSans-Medium";
+    font-weight: 500;
+    font-style: normal;
+    src: local("DMSans-Medium"),
+    url("../fonts/DMSans-Medium.woff2") format("woff2"),
+    url("../fonts/DMSans-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "DMSans-Bold";
+    font-weight: 700;
+    font-style: bold;
+    src: local("DMSans-Bold"),
+    url("../fonts/DMSans-Bold.woff2") format("woff2"),
+    url("../fonts/DMSans-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Poppins-Light";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Poppins-Light"),
+    url("../fonts/Poppins-Light.woff2") format("woff2"),
+    url("../fonts/Poppins-Light.woff") format("woff");
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Poppins-Regular"),
+    url("../fonts/Poppins-Regular.woff2") format("woff2"),
+    url("../fonts/Poppins-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Poppins-Medium";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Poppins-Medium"),
+    url("../fonts/Poppins-Medium.woff2") format("woff2"),
+    url("../fonts/Poppins-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    font-weight: 700;
+    font-style: bold;
+    src: local("Poppins-Bold"),
+    url("../fonts/Poppins-Bold.woff2") format("woff2"),
+    url("../fonts/Poppins-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Poppins-ExtraBold";
+    font-weight: 800;
+    font-style: bold;
+    src: local("Poppins-ExtraBold"),
+    url("../fonts/Poppins-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Poppins-ExtraBold.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-ExtraLight";
+    font-weight: 200;
+    font-style: normal;
+    src: local("Mulish-ExtraLight"),
+    url("../fonts/Mulish-ExtraLight.woff2") format("woff2"),
+    url("../fonts/Mulish-ExtraLight.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-Light";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Mulish-Light"),
+    url("../fonts/Mulish-Light.woff2") format("woff2"),
+    url("../fonts/Mulish-Light.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Mulish-Regular"),
+    url("../fonts/Mulish-Regular.woff2") format("woff2"),
+    url("../fonts/Mulish-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-Medium";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Mulish-Medium"),
+    url("../fonts/Mulish-Medium.woff2") format("woff2"),
+    url("../fonts/Mulish-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-Bold";
+    font-weight: 700;
+    font-style: bold;
+    src: local("Mulish-Bold"),
+    url("../fonts/Mulish-Bold.woff2") format("woff2"),
+    url("../fonts/Mulish-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-ExtraBold";
+    font-weight: 800;
+    font-style: bold;
+    src: local("Mulish-ExtraBold"),
+    url("../fonts/Mulish-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Mulish-ExtraBold.woff") format("woff");
+}
+@font-face {
+    font-family: "Mulish-Black";
+    font-weight: 900;
+    font-style: bold;
+    src: local("Mulish-Black"),
+    url("../fonts/Mulish-Black.woff2") format("woff2"),
+    url("../fonts/Mulish-Black.woff") format("woff");
+}
+@font-face {
+    font-family: "Vollkorn-Regular";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Vollkorn-Regular"),
+    url("../fonts/Vollkorn-Regular.woff2") format("woff2"),
+    url("../fonts/Vollkorn-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "Vollkorn-Medium";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Vollkorn-Medium"),
+    url("../fonts/Vollkorn-Medium.woff2") format("woff2"),
+    url("../fonts/Vollkorn-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "Vollkorn-Bold";
+    font-weight: 700;
+    font-style: bold;
+    src: local("Vollkorn-Bold"),
+    url("../fonts/Vollkorn-Bold.woff2") format("woff2"),
+    url("../fonts/Vollkorn-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Vollkorn-ExtraBold";
+    font-weight: 800;
+    font-style: bold;
+    src: local("Vollkorn-ExtraBold"),
+    url("../fonts/Vollkorn-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Vollkorn-ExtraBold.woff") format("woff");
+}
